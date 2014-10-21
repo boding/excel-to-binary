@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Excel.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Excel.h" />
+    <ClInclude Include="msado15_i.h" />
+    <ClInclude Include="Log.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="msado15.tli" />
+  </ItemGroup>
+</Project>

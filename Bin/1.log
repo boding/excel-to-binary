@@ -1,0 +1,11 @@
+2014-10-21 19:38:24.638 [Critical] [ConvertMap] convert map begin!
+2014-10-21 19:38:24.739 [Warn    ] [exception] column: 赛道1,	row: 1261.
+2014-10-21 19:38:24.739 [Warn    ] [exception] column: 赛道2,	row: 1261.
+2014-10-21 19:38:24.740 [Warn    ] [exception] column: 赛道3,	row: 1261.
+2014-10-21 19:38:24.740 [Warn    ] [exception] column: 赛道4,	row: 1261.
+2014-10-21 19:38:24.741 [Warn    ] [exception] column: 赛道5,	row: 1261.
+2014-10-21 19:38:24.741 [Warn    ] [exception] column: 上边道,	row: 1261.
+2014-10-21 19:38:24.742 [Warn    ] [exception] column: 下边道,	row: 1261.
+2014-10-21 19:38:24.787 [Critical] [ConvertMap] convert map success!
+2014-10-21 19:38:24.787 [Critical] [ConvertActor] convert actor begin!
+2014-10-21 19:38:24.833 [Critical] [ConvertActor] convert actor success!
